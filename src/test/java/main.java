@@ -10,5 +10,13 @@ public class main {
         audi.doors="2";
         audi.model="A90";
 
+
+
+        CarFeature1 tire=new CarFeature1();
+        tire.tyre="4";
+        tire.tyreColor="blue";
+        tire.tyreModel="Yokohama";
+        tire.tyreWidth="18";
+
     }
 }
