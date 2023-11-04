@@ -10,5 +10,12 @@ public class main {
         audi.doors="2";
         audi.model="A90";
 
+        Lights light=new Lights();
+
+        light.color="blue";
+        light.opacity="50";
+        light.size="40";
+        
+
     }
 }
